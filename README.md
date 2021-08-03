@@ -1,4 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ 
+ Simple tic-tac-toe game for 2 players.
+ 
+ ![tictactoe_2](https://user-images.githubusercontent.com/48638830/127958882-6736fa73-6603-466e-99b5-90dae42522fc.png)
+
+
 
 ## Available Scripts
 
